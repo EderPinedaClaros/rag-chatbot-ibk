@@ -13,3 +13,5 @@ Architecture on AWS
     export OPENAI_API_KEY=""
     cd chatbot
     streamlit run app.py
+
+    ![AWS](https://github.com/luisgradossalinas/eder-rag-chatbot/blob/master/arquitectura-aws.png)
