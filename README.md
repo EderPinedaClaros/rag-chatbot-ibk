@@ -6,7 +6,8 @@
 
 ## Actual
 
-INGRESAR IMAGEN
+![image](https://github.com/luisgradossalinas/eder-rag-chatbot/assets/2066453/bf4cb76d-8968-44c4-b5c1-9bb06bb2adfc)
+
 
     - FAISS
     - OpenAI - GPT3.5TURBO 0125
