@@ -9,3 +9,7 @@
     pip install -r lib/requirements.txt
 
 Architecture on AWS
+
+    export OPENAI_API_KEY=""
+    cd chatbot
+    streamlit run app.py

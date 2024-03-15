@@ -28,13 +28,8 @@ with st.sidebar:
 
     nmodel = st.selectbox('Eliga un modelo',('Comportamental BPE', 'ADMISIÓN BANK QUICK WIN', 'ORIGEN NO BANK BPE'), key = "nmodel", on_change = clear_chat_history)
 
-    st.write(list_nmodels[nmodel])
-
     st.markdown(
-        """        
-        ### Propósito
-        Modificar
-        
+        """                
         ### Fuentes de datos que se han considerado
         - Documento Modelo Comportamental BPE 1
         - DocumentoAdmisionBankQuickWin_comentariosAIS
