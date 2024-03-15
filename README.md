@@ -1,5 +1,3 @@
-## Ingest Data
-
 ## AWS
 
 ![image](https://github.com/luisgradossalinas/eder-rag-chatbot/assets/2066453/6d97f3c1-77b6-4ddb-903e-43aea3c5bbd0)
