@@ -42,7 +42,7 @@ msg_chatbot = """
         
         ### Preguntas que puedes realizar
         - ¿De qué trata el modelo?
-        - ¿Cuáles son las principales fuentes utiizadas, puedes tabularlas?
+        - ¿Cuáles son las principales fuentes utilizadas, puedes tabularlas?
         - ¿Cuál ha sido el periodo de observación para la construcción del modelo?
         - ¿Cuál es el performance del modelo?
 """
